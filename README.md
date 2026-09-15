@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
