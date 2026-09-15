@@ -19,4 +19,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
