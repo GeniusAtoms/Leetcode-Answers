@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0231-power-of-two) |
+## Array
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0860-lemonade-change) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
