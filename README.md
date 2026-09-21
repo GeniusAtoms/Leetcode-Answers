@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0178-rank-scores) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Math
