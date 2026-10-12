@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0231-power-of-two) |
 ## Two Pointers
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0066-plus-one) |
 | [0860-lemonade-change](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0860-lemonade-change) |
 ## Greedy
 |  |
