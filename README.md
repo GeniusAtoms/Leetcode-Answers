@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0066-plus-one) |
 | [0860-lemonade-change](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0860-lemonade-change) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
