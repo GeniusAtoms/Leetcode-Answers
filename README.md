@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0636-exclusive-time-of-functions) |
 | [0860-lemonade-change](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0860-lemonade-change) |
 | [1441-build-an-array-with-stack-operations](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/1441-build-an-array-with-stack-operations) |
 ## Greedy
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
 |  |
