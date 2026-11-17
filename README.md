@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0066-plus-one) |
 | [0860-lemonade-change](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0860-lemonade-change) |
+| [1441-build-an-array-with-stack-operations](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/1441-build-an-array-with-stack-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0094-binary-tree-inorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/GeniusAtoms/Leetcode-Answers/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
